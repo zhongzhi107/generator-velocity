@@ -1,0 +1,15 @@
+Description:
+    Creates a new basic front-end web application with Java Velocity Template.
+
+Example:
+    yo velocity
+
+    This will create:
+        Gruntfile.js: Configuration for the task runner.
+        package.json: Development packages installed by npm.
+
+        app/: Your application files.
+          data/: Template init and Ajax test data.
+          static/: Static files.
+          vm/: velocity template files.
+        config/: Your application config files.

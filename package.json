@@ -1,0 +1,39 @@
+{
+  "name": "generator-velocity",
+  "version": "0.0.1",
+  "description": "Scaffold out a front-end web app with Java Velocity template",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhongzhi107/generator-velocity"
+  },
+  "author": {
+    "name": "zhongzhi107",
+    "email": "zhong.zhi@163.com"
+  },
+  "main": "app/index.js",
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.2.10"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "velocity",
+    "grunt"
+  ],
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "cheerio": "^0.17.0",
+    "yeoman-generator": "~0.17.3",
+    "yosay": "~1.0.0"
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+    "yo": ">=1.2.0"
+  },
+  "readme": "ERROR: No README data found!"
+}
