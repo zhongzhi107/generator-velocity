@@ -11,7 +11,7 @@
 * Automagically inline image to css file use base64 encode.
 * Awesome Image Optimization (via OptiPNG, pngquant, jpegtran and gifsicle)
 * Mocha Unit Testing with PhantomJS
-* Mave relative (Optional, Qunar Only)
+* Mave relative (Optional)
 
 For more information on what `generator-velocity` can do for you, take a look at the [Grunt tasks](https://github.com/zhongzhi107/generator-velocity/blob/master/app/templates/_package.json) used in our `package.json`.
 
